@@ -1,2 +1,2 @@
 # python_sample
-some of the python projects during advance progeramming.
+some of my python projects during advanced programming.
